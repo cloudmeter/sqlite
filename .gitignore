@@ -1,0 +1,11 @@
+*.o
+*.a
+*.lo
+*.la
+.deps
+.libs
+Makefile
+config.log
+config.status
+libtool
+sqlite3
